@@ -1,0 +1,25 @@
+﻿Location year ,Genus/species level,P,,NP,,,,,Chokwe 2014,,,,,Chokwe 2015,,,,,Gurue 2014,,,,,Gurue 2015,,,,
+Chokwe 2014,Fusarium spp.,26,76,11,44,,,Taxonomic group (Genus/species level),P,%,NP,%,N of isolates,P,%,NP,%,N of isolates,P,%,NP,%,N of isolates,P,%,NP,%,N of isolates
+,Macrophomina phaseolina ,0,0,0,0,,,Fusarium spp.,26,76.5,11,19.3,37,14,53.8,1,4.0,15,99,98.0,21,67.7,120,32,80.0,6,31.6,38
+,Pythium spp,0,0,0,0,,,Macrophomina phaseolina ,0,0.0,0,0.0,0,11,42.3,0,0.0,11,0,0.0,0,0.0,0,2,5.0,0,0.0,2
+,Rhizoctonia solani,0,0,0,0,,,Pythium spp,0,0.0,0,0.0,0,0,0.0,0,0.0,0,0,0.0,0,0.0,0,1,2.5,0,0.0,1
+,Others genus/species,8,24,14,56,,,Rhizoctonia solani,0,0.0,0,0.0,0,0,0.0,0,0.0,0,2,2.0,0,0.0,2,1,2.5,3,15.8,4
+,Phatogenic,34,100,25,100,,,Others genus/species,8,23.5,46,80.7,54,1,0.0,24,0.0,25,0,0.0,10,0.0,10,4,10.0,10,52.6,14
+Chokwe 2015,Fusarium spp.,14,54,1,4,,,Total of isolates,34,100,57,100,91,26,100,25,100,51,101,100,31,100,132,40,100,19,100,59
+,Macrophomina phaseolina,11,42,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Pythium spp,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Rhizoctonia solani,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Others genus/species,1,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Pathogenics,26,100,25,100,,,,,,,,,,,,,,,,,,,,,,,
+Gurue 2014,Fusarium spp.,99,98,21,68,,,,,,,,,,,,,,,,,,,,,,,
+,Macrophomina phaseolina,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Pythium spp,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Rhizoctonia solani,2,2,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Others genus/species,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Pathogenics,101,100,31,100,,,,,,,,,,,,,,,,,,,,,,,
+Gurue 2015,Fusarium spp.,32,80,6,32,,,,,,,,,,,,,,,,,,,,,,,
+,Macrophomina phaseolina ,2,5,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Pythium spp,1,3,0,0,,,,,,,,,,,,,,,,,,,,,,,
+,Rhizoctonia solani,1,3,3,16,,,,,,,,,,,,,,,,,,,,,,,
+,Others genus/species,4,10,10,53,,,,,,,,,,,,,,,,,,,,,,,
+,Pathogenics,40,100,19,100,,,,,,,,,,,,,,,,,,,,,,,
